@@ -29,7 +29,7 @@ This project analyzes the Brazilian Olist E-Commerce public dataset to uncover i
 3.  Use the slicers and filters on each page to interact with the data.
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here later if you want)*
+![Dashboard Screenshot](dashboard.png)
 
 ---
 **Completed for the Data Analysis Diploma at Smart Investment Solution (SIS) Academy.**
